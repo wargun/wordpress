@@ -3,5 +3,5 @@ wp-config.php
 .htaccess
 
 # Ignore the wp-content directory
-#/wp-content
+/wp-content
 
